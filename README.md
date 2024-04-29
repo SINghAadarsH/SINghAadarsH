@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adarsh Singh</h1>
 <h3 align="center">I am a student currently pursuing IT engineering at Bharati Vidyapeeth College of Engineering, Pune. My passion for technology has led me to explore various programming languages and delve into different aspects of software development.</h3>
 
-‹img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhaadarsh&label=Profile%20views&color=0e75b6&style=flat" alt="singhaadarsh" /> </p>
 
